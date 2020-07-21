@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm [Dilan Suraj!](https://dilanSuraj.github.io) 👋
 
 <!-- <a href="https://twitter.com/dilanSuraj">
