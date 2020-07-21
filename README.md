@@ -1,15 +1,5 @@
 ### Hi there, I'm [Dilan Suraj!](https://dilanSuraj.github.io) 👋
 
-<!-- <a href="https://twitter.com/dilanSuraj">
-  <img align="left" alt="Dilan Suraj | Twitter" width="21px" src="https://raw.githubusercontent.com/dilanSuraj/dilanSuraj/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Dilan Suraj's Discord" width="21px" src="https://raw.githubusercontent.com/dilanSuraj/dilanSuraj/master/assets/discord-round.svg" />
-</a> -->
-
-<br />
-<br />
-
 Hi, I'm Dilan Suraj, a passionate self-taught full stack developer who is interested on Artificial Intelligence embeded application development
 
 - 🔭 I’m currently working on firebase, firestore serverless projects
