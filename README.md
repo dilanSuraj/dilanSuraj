@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-### Hi there, I'm [Anurag!](https://dilanSuraj.github.io) 👋
+### Hi there, I'm [Dilan Suraj!](https://dilanSuraj.github.io) 👋
 
-<!-- <a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/dilanSuraj/dilanSuraj/master/assets/twitter.svg" />
+<!-- <a href="https://twitter.com/dilanSuraj">
+  <img align="left" alt="Dilan Suraj | Twitter" width="21px" src="https://raw.githubusercontent.com/dilanSuraj/dilanSuraj/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/dilanSuraj/dilanSuraj/master/assets/discord-round.svg" />
+  <img align="left" alt="Dilan Suraj's Discord" width="21px" src="https://raw.githubusercontent.com/dilanSuraj/dilanSuraj/master/assets/discord-round.svg" />
 </a> -->
 
 <br />
