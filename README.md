@@ -16,5 +16,7 @@ Hi, I'm Dilan Suraj, a passionate self-taught full stack developer who is intere
 
 [github-readme-stats](https://github.com/dilanSuraj/github-readme-stats)*
 
-![Dilan Suraj's github stats](https://github-readme-stats.vercel.app/api?username=dilanSuraj&show_icons=true&theme=radical)
+![Dilan Suraj's github stats](https://github-readme-stats.vercel.app/api?username=dilanSuraj&show_icons=true&theme=dark&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilanSuraj)](https://github.com/dilanSuraj/github-readme-stats)
 
