@@ -2,8 +2,8 @@
 
 Hi, I'm Dilan Suraj, a passionate self-taught full stack developer who is interested on Artificial Intelligence embeded application development
 
-- 🔭 I’m currently working on firebase, firestore serverless projects
-- 🌱 I’m currently learning GraphQL & Typescript
+- 🔭 I’m currently working on Nest based projects 
+- 🌱 I’m currently learning Blockchain and microservice with Spring Boot
 - 💬 Ask me about anything [here](https://github.com/dilanSuraj/dilanSuraj/issues)
 
 **Languages and Tools**   
