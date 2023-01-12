@@ -27,8 +27,6 @@ src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.
 src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass.png">
 <img align="left" height="42px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
-<img align="left" height="42px" 
-src="https://w7.pngwing.com/pngs/987/1007/png-transparent-authentication-oauth-logo-identity-management-authorization-geekwire-text-orange-logo-thumbnail.png">
 <br>
 <br>
 <br>
